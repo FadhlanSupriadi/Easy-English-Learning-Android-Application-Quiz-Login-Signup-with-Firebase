@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "227395083230",
+    "firebase_url": "https://easy-english-learning-f4bb0.firebaseio.com",
+    "project_id": "easy-english-learning-f4bb0",
+    "storage_bucket": "easy-english-learning-f4bb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227395083230:android:18ba1e7c18cecc21",
+        "android_client_info": {
+          "package_name": "com.example.nalhdaf.easyenglishlearning3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227395083230-vi49uktp1r9tvkfhffi3p5qlj9rp8nn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nalhdaf.easyenglishlearning3",
+            "certificate_hash": "ce7f18e8502bed779effb2e80385ac9005bf75f8"
+          }
+        },
+        {
+          "client_id": "227395083230-36tag03il67k3ja4ttqr9506rbjmo7gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsZMnGyRkCZpxUuA1ghBYAmRVPbk-xspA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227395083230-36tag03il67k3ja4ttqr9506rbjmo7gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
