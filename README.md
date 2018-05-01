@@ -1,8 +1,8 @@
-# Easy English Learning ( Android Application Quiz Login/Signup with Firebase)
+# Easy English Learning Ver 1.0 ( Android Application Quiz Login/Signup with Firebase)
 
-Front end : Android Studio
+Application : Android Studio
 
-Back end : Firebase
+Database : Firebase
 
 Feature :
 
